@@ -23,6 +23,3 @@ Il progetto ha prodotto un modello di riconoscimento dei numeri scritti a mano c
 - Python
 - TensorFlow
 - Jupyter Notebook
-
-## Licenza
-Questo progetto è concesso in licenza secondo i termini della [Licenza] (inserire il link alla licenza).
